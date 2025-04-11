@@ -73,12 +73,12 @@ section {
     box-sizing: border-box; /* Include padding in the element's total width and height */
 }
 
-#section1 { background: #FFFFFF; }
+#section1 { background: #d0f0f1; }
 #section2 { background: #3a4447; }
 #section3 { background: #e36bb3; }
-#section4 { background: #FFFFFF; }
+#section4 { background: #d0f0f1; }
 #section5 { background: #3a4447; }
-#section6 { background: #e36bb3; }
+#section6 { background: #3a4447; }
 
 /* Media Queries for Responsiveness */
 @media (max-width: 1200px) {
@@ -174,7 +174,7 @@ section {
         .footer {
             display: flex;
             justify-content: space-between;
-            background-color: #333;
+            background-color: #a9cccd;
             color: white;
             padding: 20px;
         }
